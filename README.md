@@ -32,3 +32,8 @@ This program has been confirmed to work on Ubuntu 18.04 and Ubuntu 20.04.
 ./fdf maps/test_maps/42.fdf
 ```
 ![fdf_42](https://user-images.githubusercontent.com/51109408/131210462-964aec28-101e-4ea4-9743-6844ae36af3c.png)
+
+```
+./fdf maps/test_maps/t1.fdf
+```
+![fdf_t1](https://user-images.githubusercontent.com/51109408/131210489-fae4d12f-6ee2-4cfd-b8d8-3f15c3dda0c8.png)
