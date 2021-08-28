@@ -8,7 +8,6 @@ You will also discover your first graphic library: miniLibX. This library was de
 
 # How to build
 Build the files.
-
 ```
 make
 ```
@@ -24,5 +23,7 @@ Clean all files
 ```
 make fclean
 ```
+
+<br>
 
 # How to run
