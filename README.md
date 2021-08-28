@@ -28,3 +28,6 @@ make fclean
 
 # How to run
 This program has been confirmed to work on Ubuntu 18.04 and Ubuntu 20.04.
+```
+./fdf maps/test_maps/42.fdf
+```
