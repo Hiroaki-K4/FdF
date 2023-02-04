@@ -4,11 +4,6 @@ You will also discover your first graphic library: miniLibX. This library was de
 
 <br>
 
-# My score
-![fdf](https://user-images.githubusercontent.com/51109408/131210284-c960e33e-aabf-4d64-9fbc-23ad4bd3ce62.png)
-
-<br>
-
 # How to build
 Build the files.
 ```
